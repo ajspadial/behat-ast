@@ -5,7 +5,7 @@
         'failed_scenarios_title' => 'Casos fallíos:',
         'failed_hooks_title'     => 'Hooks fallíos:',
         'failed_steps_title'     => 'Pasos fallíos:',
-        'pending_steps_title'    => 'Pasos pendientes:',
+        'pending_steps_title'    => 'Pasos empatanaos:',
         'scenarios_count'        => '{0} Nengún casu|{1} 1 casu|]1,Inf] %1% casos',
         'steps_count'            => '{0} Nengún pasu|{1} 1 pasu|]1,Inf] %1% pasos',
         'passed_count'           => '[1,Inf] %1% pasaron',
